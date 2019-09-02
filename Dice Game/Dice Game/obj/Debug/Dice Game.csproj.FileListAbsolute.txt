@@ -1,0 +1,6 @@
+C:\Users\oskar sobon\Desktop\Games, etc\Uni Work\Prog and Data Structure\Dice Game\Dice Game\bin\Debug\Dice Game.exe.config
+C:\Users\oskar sobon\Desktop\Games, etc\Uni Work\Prog and Data Structure\Dice Game\Dice Game\bin\Debug\Dice Game.exe
+C:\Users\oskar sobon\Desktop\Games, etc\Uni Work\Prog and Data Structure\Dice Game\Dice Game\bin\Debug\Dice Game.pdb
+C:\Users\oskar sobon\Desktop\Games, etc\Uni Work\Prog and Data Structure\Dice Game\Dice Game\obj\Debug\Dice Game.csprojResolveAssemblyReference.cache
+C:\Users\oskar sobon\Desktop\Games, etc\Uni Work\Prog and Data Structure\Dice Game\Dice Game\obj\Debug\Dice Game.exe
+C:\Users\oskar sobon\Desktop\Games, etc\Uni Work\Prog and Data Structure\Dice Game\Dice Game\obj\Debug\Dice Game.pdb
